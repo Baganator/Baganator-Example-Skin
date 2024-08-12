@@ -1,0 +1,7 @@
+## Interface: 11502, 40400, 100207, 110000
+## Title: Baganator (Dummy Skin)
+## Version: @project-version@
+## Author: plusmouse
+## RequiredDeps: Baganator
+
+Main.lua
